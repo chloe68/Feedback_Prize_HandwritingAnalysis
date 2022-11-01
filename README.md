@@ -10,4 +10,4 @@ Model details:
 3. Build NN model using RobertaForSequenceClassification (for regression)
 4. Build XGBoost with MultiOuputRegressor on top
 
-Results: 0.44 LB
+Results: 0.44 LB in Kaggle Leader Board
